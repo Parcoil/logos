@@ -1,0 +1,2 @@
+background: Catppuccin Mantle ("#181825")
+forground: Catppuccin Blue ("#89b4fa")
