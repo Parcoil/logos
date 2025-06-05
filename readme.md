@@ -28,6 +28,7 @@ This repository contains the official and alternative logos for the Parcoil bran
 - ![starlight](logos/starlight.png)
 - ![686112](logos/686112.png)
 - ![116317740](logos/116317740.png)
+- ![sparklebanner](logos/sparklebanner.png)
 
 ### Icons
 
